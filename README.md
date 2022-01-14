@@ -17,7 +17,7 @@
 
 ## Product Backlog
 - Epic #01 "Buy a Ticket": 
-    > as a **customer**, I want to buy a Round Trip ticket, providing only my destination and dates so that I will be able to plan the rest of my trip
+    > as a **customer**, I want to buy a Round Trip ticket, providing only my destination and dates so that I will be able to plan the rest of my trip  
     > as a **businessman**, I want to buy an open ticket providing only my destination so that I have flexibility planning my trip
 - Epic #02 "Buy a Multi-City Ticket":  
     > as a **tourist**, I want to buy tickets to multiple destinations hopping from one place to the next one after a few days, so that I can make the reservation process simpler.
@@ -30,8 +30,13 @@
 - Epic #06 "Look for Flight Offers":
 - Epic #07 "Check Passenger in to a Flight":
 - Epic #08 "Facilitate Flight Connections to Passenger": 
+- Epic #09 "Add Frequent Flyer Membership":
+- Epic #10 "Cancel a Flight":
+- Epic #11 "Register Baggage Claim":
 
 ## "Getting Tickets" Diagram
+
+![Getting Tickets Map](getting_tickets.png)
 
 ## User Stories
 
@@ -40,5 +45,11 @@
 ### User Story #0X: 
 
 ## Epics Timeline
+
+| Color | Tag |
+|-------|-----|
+| Red | MVP - Basic Customer Features |
+| Yellow | Extended Customer Features |
+| Purple | Airline Representative Features |
 
 ![Airline Web Page Epics Timeline](tablero_air.png)

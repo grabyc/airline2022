@@ -14,6 +14,7 @@
     - Airline representative in airport
 - MVP must be up & running in two months
 - Software Development Contract will finish in six months
+- Car Rental Service is provided by a Car Rental Booking Site via API calls
 
 ## Product Backlog
 - Epic #01 "Buy a Ticket": 
@@ -44,7 +45,9 @@
 
 ![Buy a Ticket](US01_Buy_a_Ticket.png)
 
-### User Story #0X: 
+### User Story #02 - Rent a Car 
+
+![Rent a Car](US02_Rent_a_Car.png)
 
 ## Epics Timeline
 

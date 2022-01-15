@@ -39,15 +39,21 @@
 
 ![Getting Tickets Map](getting_tickets.png)
 
+[View in Mural](https://app.mural.co/t/airlineproject5442/m/airlineproject5442/1642174450453/6ebcafb12c4f7ade94d66816fac648368d08cd0e?sender=grabyc3293)
+
 ## User Stories
 
 ### User Story #01 - Buy a Ticket
 
 ![Buy a Ticket](US01_Buy_a_Ticket.png)
 
+[View in Mural](https://app.mural.co/t/airlineproject5442/m/airlineproject5442/1642174450453/6ebcafb12c4f7ade94d66816fac648368d08cd0e?sender=grabyc3293)
+
 ### User Story #02 - Rent a Car 
 
 ![Rent a Car](US02_Rent_a_Car.png)
+
+[View in Mural](https://app.mural.co/t/airlineproject5442/m/airlineproject5442/1642174450453/6ebcafb12c4f7ade94d66816fac648368d08cd0e?sender=grabyc3293)
 
 ## Epics Timeline
 

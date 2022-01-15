@@ -40,7 +40,9 @@
 
 ## User Stories
 
-### User Story #0X: 
+### User Story #01 - Buy a Ticket
+
+![Buy a Ticket](US01_Buy_a_Ticket.png)
 
 ### User Story #0X: 
 
